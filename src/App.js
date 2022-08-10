@@ -1,13 +1,12 @@
 import React from "react";
 
 import "./App.css";
-import Level1 from "./level1";
 import Practical from "./practical";
 
 function App() {
   return (
     <div className="certified">
-      <h1 className="head"> WONDER TODO APP</h1>
+      <h1 className="head"> WONDER search engine</h1>
       <div>
         <Practical />
       </div>
