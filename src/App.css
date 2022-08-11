@@ -11,19 +11,73 @@
   margin-left: 15%;
   margin-right: 15%;
 }
+.list-item {
+  list-style: none;
+  color: blue;
+  margin: 2%;
+  display: flex;
+  border: 2px solid blue;
+  border-radius: 5px;
+  font-weight: 600;
+  font-family: "Times New Roman", Times, serif;
+}
+.clear {
+  background-color: blue;
+  color: white;
+  margin-top: 3rem;
+}
+.input {
+  margin-top: 20px;
+  border: 2px solid blue;
+  color: blue;
+  border-radius: 10px;
+  margin-right: 15%;
+  margin-bottom: 5%;
+  font-weight: 600;
+}
+.styless {
+  border: 0;
+  background-color: none;
+  list-style: none;
+  margin: 2%;
+  display: flex;
+  font-weight: 600;
+  font-family: "Times New Roman", Times, serif;
+  color: blue;
+}
+
+.join {
+  margin-left: 45px;
+  font-weight: 400;
+}
+.completed {
+  background-color: green;
+  color: #ffffff;
+  border-radius: 5px;
+  margin-right: 0;
+}
+.delete-btn {
+  margin-left: 2rem;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  margin-right: 3px;
+}
+.add-btn {
+  border: 2px solid blue;
+  background-color: white;
+  color: blue;
+  font-weight: 600;
+}
 .head {
   color: white;
   border: 2px solid blue;
-  margin-left: 22%;
-  margin-right: 22%;
+  margin-left: 20%;
+  margin-right: 20%;
   background-color: blue;
+  border-radius: 25px;
 }
-.text {
-  margin-top: 2%;
-  color: blue;
-  border: 2px solid blue;
-  margin-bottom: 5%;
-}
+
 .listed {
   list-style: none;
   margin: 2%;
